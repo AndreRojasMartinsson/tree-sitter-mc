@@ -1,0 +1,15 @@
+{
+  "grammars": [
+    {
+      "name": "mc",
+      "camelcase": "MC",
+      "scope": "source.mc",
+      "path": ".",
+      "file-types": ["mc"]
+    }
+  ],
+  "metadata": {
+    "version": "0.1.0",
+    "description": "MC editor grammar maintained alongside the memc compiler"
+  }
+}
